@@ -1,0 +1,1 @@
+Esse arquivo tem a finalidade de testas as funcionalidades do comando git branch! 
