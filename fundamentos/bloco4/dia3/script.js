@@ -14,4 +14,8 @@ for (let i = 0; i < fruits.length; i += 1) {
     valorSomado += fruits[i];
 }
 
-console.log(valorSomado);
+if (valorSomado > 15) {
+    console.log(valorSomado);
+} else if (valorSomado <= 15){
+    console.log("valor menor que 16")
+}
