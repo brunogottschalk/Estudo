@@ -64,5 +64,5 @@ function verificaMenorValor(array){
 console.log('Menor numero inteiro: ',verificaMenorValor(numerosInteiros));
 
 function maiorNome(nomes){
-
+    
 }
