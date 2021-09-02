@@ -2,6 +2,7 @@ const cabeçalho = document.querySelector('header');
 const titulos = document.querySelectorAll("h3");
 const div = document.querySelectorAll("section");
 const footer = document.querySelector("#footer-container");
+const html = window.document;
 
 
 cabeçalho.style = 'background-color:green';
